@@ -5,4 +5,8 @@ __pycache__/
 .env
 .streamlit/secrets.toml
 .DS_Store
-Thumbs.db
+Thumbs.dbmodels/*.pkl
+__pycache__/
+*.pyc
+model/*.pkl
+/models/best_model.pkl
